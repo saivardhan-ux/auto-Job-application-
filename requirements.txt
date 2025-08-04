@@ -1,0 +1,8 @@
+selenium
+requests
+gspread
+oauth2client
+beautifulsoup4
+pillow
+captcha
+twilio

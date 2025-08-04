@@ -1,0 +1,1 @@
+worker: python apply_bot.py
